@@ -14,10 +14,7 @@ namespace DungeonExplorer
             game.Start();
             Console.WriteLine("Waiting for your Implementation");
             Console.WriteLine("Press any key to exit...");
-            Console.WriteLine("Test commit");
-            Console.WriteLine("Test commit line 2");
-            Console.WriteLine("Test commit line 3");
-            Console.WriteLine("Test commit line 4");
+            Console.WriteLine("wtf is going on");
             Console.ReadKey();
         }
     }
