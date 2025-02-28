@@ -17,6 +17,7 @@ namespace DungeonExplorer
             Console.WriteLine("Test commit");
             Console.WriteLine("Test commit line 2");
             Console.WriteLine("Test commit line 3");
+            Console.WriteLine("Test commit line 4");
             Console.ReadKey();
         }
     }
