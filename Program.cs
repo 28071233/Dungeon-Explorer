@@ -16,6 +16,7 @@ namespace DungeonExplorer
             Console.WriteLine("Press any key to exit...");
             Console.WriteLine("Test commit");
             Console.WriteLine("Test commit line 2");
+            Console.WriteLine("Test commit line 3");
             Console.ReadKey();
         }
     }
